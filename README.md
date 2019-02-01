@@ -6,7 +6,7 @@
 [![GitHub downloads](https://img.shields.io/github/downloads/deeppomf/DeepCreamPy/total.svg)](https://github.com/deeppomf/DeepCreamPy/releases)
 [![GitHub issues](https://img.shields.io/github/issues/deeppomf/DeepCreamPy.svg)](https://github.com/deeppomf/DeepCreamPy/issues)
 [![Donate with PayPal](https://img.shields.io/badge/paypal-donate-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SAM6C6DQRDBAE)
-[![Project license](https://img.shields.io/github/license/deeppomf/DeepCreamPy.svg)](https://raw.githubusercontent.com/deeppomf/DeepCreamPy/develop/LICENSE)
+[![Project license](https://img.shields.io/github/license/deeppomf/DeepCreamPy.svg)](https://raw.githubusercontent.com/deeppomf/DeepCreamPy/master/LICENSE.txt)
 [![Twitter Follow](https://img.shields.io/twitter/follow/deeppomf.svg?label=Follow&style=social)](https://twitter.com/deeppomf/)
 
 A deep learning-based tool to automatically replace censored artwork in hentai with plausible reconstructions.
@@ -14,6 +14,8 @@ A deep learning-based tool to automatically replace censored artwork in hentai w
 The user colors censored regions green in an image editing program like GIMP or Photoshop. A neural network fills in the censored regions.
 
 DeepCreamPy has a pre-built binary for Windows 64-bit available [here](https://github.com/deeppomf/DeepCreamPy/releases/latest). DeepCreamPy works on Windows, Mac, and Linux.
+
+Please before you open a new issue check [Closed issue](https://github.com/deeppomf/DeepCreamPy/issues?q=is%3Aissue+is%3Aclosed) and check [Table of contents](https://github.com/deeppomf/DeepCreamPy#table-of-contents).
 
 <p align="center">
 	<img src="https://github.com/deeppomf/DeepCreamPy/blob/master/readme_images/mermaid_collage.png" width="800">
@@ -51,7 +53,7 @@ Miscellaneous:
 * [FAQ](docs/FAQ.md)
 
 ## To do
-- Finish the user interface (estimated November)
+- Finish the user interface (estimated ???)
 - ~~Update model with better quality data (estimated November)~~
 - Add support for black and white images
 - Add error log
